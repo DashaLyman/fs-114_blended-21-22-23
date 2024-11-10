@@ -10,3 +10,5 @@ https://www.loom.com/share/79888de105aa4d22913eae81ffe42076?sid=1d6647a8-60d0-4a
 Cкорочення Emmet - https://docs.emmet.io/cheat-sheet/
 
 Словник - https://github.com/YK911/basic-dictionary
+
+Cпрайт - https://www.loom.com/share/458929eb9d204896b359a2a9ea5525da
